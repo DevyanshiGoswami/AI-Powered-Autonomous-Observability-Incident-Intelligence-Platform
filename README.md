@@ -249,7 +249,7 @@ This project demonstrates the intersection of:
 
 Rather than building another monitoring dashboard, the goal was to explore how AI can transform operational data into actionable intelligence and help engineers prevent incidents before they impact users.
 
-Below is the demo of the project:
+
 https://github.com/user-attachments/assets/853c8e70-9ad8-4e4a-8a89-45c25a09e593
 
 
