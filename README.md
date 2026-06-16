@@ -1,5 +1,5 @@
 
-AI-Powered Autonomous Observability & Incident Intelligence Platform.
+**AI-Powered Autonomous Observability & Incident Intelligence Platform.**
 
 Modern applications generate thousands of infrastructure metrics every second. Traditional monitoring tools can tell engineers what is happening, but they often fail to answer the most important questions:
 
